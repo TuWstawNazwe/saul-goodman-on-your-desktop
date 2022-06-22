@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saul Goodman 3D", "Saul Goodman 3D\Saul Goodman 3D.csproj", "{D0270140-D1C1-48FF-AFB7-A10B92E1371E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0270140-D1C1-48FF-AFB7-A10B92E1371E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0270140-D1C1-48FF-AFB7-A10B92E1371E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0270140-D1C1-48FF-AFB7-A10B92E1371E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0270140-D1C1-48FF-AFB7-A10B92E1371E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A9B433D-DF25-40C2-8D1C-8C6F5478B909}
+	EndGlobalSection
+EndGlobal
